@@ -1,6 +1,7 @@
 
 namespace AdventureworksAPI.Models {
     public class ProductCatalogDTO {
+        public int ProductId { get; set; }
         public string Name { get; set; }
         public string ProductNumber { get; set; }
         public string Color { get; set; }

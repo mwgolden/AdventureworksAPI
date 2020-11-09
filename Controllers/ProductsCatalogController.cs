@@ -30,6 +30,7 @@ namespace AdventureworksAPI.Controllers
                 ProductSubcategory => ProductSubcategory.ProductCategoryId,
                 (Product, ProductSubcategory) => 
                     new ProductCatalogDTO {
+                        ProductId = Product.ProductId,
                         Name = Product.Name,
                         ProductNumber = Product.ProductNumber,
                         Color = Product.Color,
