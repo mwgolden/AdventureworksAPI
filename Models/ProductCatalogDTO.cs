@@ -1,5 +1,5 @@
 
-namespace myWebApi.Models {
+namespace AdventureworksAPI.Models {
     public class ProductCatalogDTO {
         public string Name { get; set; }
         public string ProductNumber { get; set; }

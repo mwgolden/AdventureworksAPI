@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace myWebApi.Models
+namespace AdventureworksAPI.Models
 {
     public partial class CreditCard
     {

@@ -11,10 +11,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore;
-using myWebApi.Models;
+using AdventureworksAPI.Models;
 
 
-namespace myWebApi
+namespace AdventureworksAPI
 {
     public class Startup
     {

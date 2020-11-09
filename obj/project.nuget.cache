@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c1YJBoCKQJhrwg6ooWnZNWZvyeJA+knifFPkHU83dxGuwxFn/i/NioOEIDHGgKbV31qC+mCFPkcF795FyTM/gQ==",
+  "dgSpecHash": "hWAiZ0OMsRL0QSNeCGC4v4xGEWzFuIATprWM7RVBgjcKjTSzekz+Z8WaCS72b4HVclbroTfPMq8+6CNkdyCZsg==",
   "success": true,
-  "projectFilePath": "/Users/matthew/Documents/Projects/myWebApi/myWebApi.csproj",
+  "projectFilePath": "/Users/matthew/Documents/Projects/AdventureworksAPI/AdventureworksAPI.csproj",
   "expectedPackageFiles": [
     "/Users/matthew/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "/Users/matthew/.nuget/packages/microsoft.aspnetcore.razor/2.2.0/microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

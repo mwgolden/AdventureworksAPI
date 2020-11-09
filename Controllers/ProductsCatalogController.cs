@@ -5,9 +5,9 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using myWebApi.Models;
+using AdventureworksAPI.Models;
 
-namespace myWebApi.Controllers
+namespace AdventureworksAPI.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

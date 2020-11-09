@@ -22,7 +22,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "myWebApi/1.0.0": {
+      "AdventureworksAPI/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": "3.1.9",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.9",
@@ -298,10 +298,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "myWebApi.dll": {}
+          "AdventureworksAPI.dll": {}
         },
         "compile": {
-          "myWebApi.dll": {}
+          "AdventureworksAPI.dll": {}
         }
       },
       "Microsoft.AspNetCore.Html.Abstractions/2.2.0": {
@@ -3810,7 +3810,7 @@
     }
   },
   "libraries": {
-    "myWebApi/1.0.0": {
+    "AdventureworksAPI/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

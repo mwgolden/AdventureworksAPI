@@ -8442,11 +8442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/matthew/Documents/Projects/myWebApi/myWebApi.csproj",
-      "projectName": "myWebApi",
-      "projectPath": "/Users/matthew/Documents/Projects/myWebApi/myWebApi.csproj",
+      "projectUniqueName": "/Users/matthew/Documents/Projects/AdventureworksAPI/AdventureworksAPI.csproj",
+      "projectName": "AdventureworksAPI",
+      "projectPath": "/Users/matthew/Documents/Projects/AdventureworksAPI/AdventureworksAPI.csproj",
       "packagesPath": "/Users/matthew/.nuget/packages/",
-      "outputPath": "/Users/matthew/Documents/Projects/myWebApi/obj/",
+      "outputPath": "/Users/matthew/Documents/Projects/AdventureworksAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/matthew/.nuget/NuGet/NuGet.Config"

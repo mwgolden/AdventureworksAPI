@@ -1,5 +1,5 @@
 {
-  "FilePath": "/Users/matthew/Documents/Projects/myWebApi/myWebApi.csproj",
+  "FilePath": "/Users/matthew/Documents/Projects/AdventureworksAPI/AdventureworksAPI.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14389,7 +14389,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "myWebApi",
+  "RootNamespace": "AdventureworksAPI",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

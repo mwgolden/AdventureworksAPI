@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace myWebApi.Models {
+namespace AdventureworksAPI.Models {
     public class ApiQueryResult<T> {
         private ApiQueryResult(List<T> data, int count, int pageIndex, int pageSize){
             Data = data;

@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace myWebApi.Models
+namespace AdventureworksAPI.Models
 {
     public partial class AdventureWorks2012Context : DbContext
     {
